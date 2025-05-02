@@ -257,13 +257,6 @@ names = [
 
 # test = Specific_Prescribers()
 # # Iterate through each key in the dictionary
-# for key, value in test.pres_data.items():
-#     if len(value) != 14:
-#         print(f"Key '{key}' does not have exactly 12 values. Length: {len(value)}")
-#         input('enter...')
-
-# test = Specific_Prescribers()
-# # Iterate through each key in the dictionary
 # for i,(key, value) in enumerate(test.pres_data.items()):
 #     if key not in names:
 #         # print(f'{i}. {key}')

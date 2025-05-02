@@ -254,10 +254,3 @@ names = [
     "md, matthew"
 ]  
 
-
-# test = Specific_Prescribers()
-# # Iterate through each key in the dictionary
-# for i,(key, value) in enumerate(test.pres_data.items()):
-#     if key not in names:
-#         # print(f'{i}. {key}')
-#         print(key)
